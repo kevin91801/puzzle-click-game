@@ -1,0 +1,70 @@
+html {
+	background: url(images/icy.jpg) center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+h1 {
+	float: left;
+	background-color: teal;
+
+}
+
+#instruction {
+	color: blue;
+	float: left;
+	clear: both;
+	padding: 60px;
+	background-color: yellow;
+	width: 30%;
+
+}
+
+#target {
+	float: left;
+	background-color: cyan;
+	clear: both;
+	padding: 40px;
+}
+
+#winloss {
+	float: left;
+	background-color: white;
+	padding: 40px;
+}
+
+#diamond {
+	clear: both;
+	width: 96px;
+	height: 96px;
+	float: left;
+
+}
+
+#ruby {
+	float: left;
+	width: 96px;
+	height: 96px;
+}
+
+#amethyst {
+	float: left;
+	width: 96px;
+	height: 96px;
+}
+
+#emerald {
+	float: left;
+	width: 96px;
+	height: 96px;
+}
+
+#total {
+	clear: both;
+	float: left;
+	padding: 60px;
+	background-color: lime;
+}
